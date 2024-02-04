@@ -1,0 +1,76 @@
+{
+  "yags-general": {
+    "img": "https://i.gifer.com/WMDv.gif",
+    "title": "",
+    "displayImg": true,
+    "font": "Quicksand",
+    "enableFonts": false,
+    "fontSize": 0.8
+  },
+  "yags-search": {
+    "placeholder": "Search the web",
+    "engine": "duckduckgo",
+    "forwardingLookup": {
+      "youtube": "https://youtube.com",
+      "github": "https://github.com",
+      "email": "https://gmail.com",
+      "aphacoders": "htpts://alphacoders.com",
+      "reddit": "https://reddit.com"
+    }
+  },
+  "yags-theme": {
+    "inverted": false,
+    "color": {
+      "name": "material",
+      "bg": {
+        "shade": "#1A1A1A",
+        "base": "#212121",
+        "surface": "#282828",
+        "highlight": "#2E2E2E"
+      },
+      "fg": {
+        "shade": "#949494",
+        "base": "#B9B9B9",
+        "surface": "#DEDEDE",
+        "highlight": "#FFFFFF"
+      },
+      "primary": {
+        "bg": "#265828",
+        "base": "#4CAF50",
+        "fg": "#A2D7A4"
+      },
+      "secondary": {
+        "bg": "#56235F",
+        "base": "#AB47BC",
+        "fg": "#D6A6DF"
+      },
+      "palette": {
+        "red": "#E06C75",
+        "green": "#98C379",
+        "yellow": "#E5C07B",
+        "blue": "#61AFEF",
+        "purple": "#C678DD",
+        "cyan": "#56B6C2",
+        "orange": "#FFBB7C"
+      }
+    },
+    "space": {
+      "smallest": "0.125rem",
+      "small": "0.5rem",
+      "medium": "1rem",
+      "large": "1.5rem",
+      "largest": "3rem"
+    }
+  },
+  "yags-surface": {
+    "shadow": {
+      "amount": 3,
+      "blur": 32,
+      "offset": 0,
+      "shadow": "0px 0px 32px rgb(38, 88, 40), 0px 0px 32px rgb(62, 61.5, 67.5), 0px 0px 32px rgb(86, 35, 95)"
+    },
+    "borderRadius": 21,
+    "maxWidth": 780
+  },
+  "yags-bookmarks": []
+}

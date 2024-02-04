@@ -8,7 +8,7 @@
 const searchInput = document.querySelector("#searchbar > input")
 const searchButton = document.querySelector("#searchbar > button")
 
-const lookup = {"youtube":"https://youtube.com","wallpaper":"https://wallpaperflare.com","github":"https://github.com","email":"https://gmail.com","gifer":"https://gifer.com", "reddit": "https://reddit.com"}
+const lookup = {"youtube":"https://youtube.com","github":"https://github.com","email":"https://gmail.com","aphacoders":"htpts://alphacoders.com","reddit":"https://reddit.com"}
 const engine = "duckduckgo"
 const engineUrls = {
   deepl: "https://www.deepl.com/translator#-/-/{query}",
