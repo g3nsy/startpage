@@ -13,11 +13,11 @@ const lookup = {
   "github":"https://github.com",
   "email":"https://gmail.com",
   "alphacoders":"https://alphacoders.com",
-  "reddit":"https://reddit.com", "unitelma": 
-  "https://www.unitelmasapienza.it", 
+  "reddit":"https://reddit.com", 
+  "unitelma": "https://www.unitelmasapienza.it", 
   "gifer": "https://gifer.com",
   "amazon": "https://amazon.it",
-  "netflix": "https://netflix.it"
+  "netflix": "https://www.netflix.com"
 }
 
 const engine = "duckduckgo"
