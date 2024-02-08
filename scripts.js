@@ -17,7 +17,8 @@ const lookup = {
   "unitelma": "https://www.unitelmasapienza.it", 
   "gifer": "https://gifer.com",
   "amazon": "https://amazon.it",
-  "netflix": "https://www.netflix.com"
+  "netflix": "https://www.netflix.com",
+  "monkeytype": "https://monkeytype.com"
 }
 
 const engine = "duckduckgo"
